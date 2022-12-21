@@ -1,0 +1,15 @@
+C:\Users\Лис\Desktop\work\NewLS1\FinalWork\TaskFinal\obj\Debug\net7.0\TaskFinal.csproj.AssemblyReference.cache
+C:\Users\Лис\Desktop\work\NewLS1\FinalWork\TaskFinal\obj\Debug\net7.0\TaskFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Лис\Desktop\work\NewLS1\FinalWork\TaskFinal\obj\Debug\net7.0\TaskFinal.AssemblyInfoInputs.cache
+C:\Users\Лис\Desktop\work\NewLS1\FinalWork\TaskFinal\obj\Debug\net7.0\TaskFinal.AssemblyInfo.cs
+C:\Users\Лис\Desktop\work\NewLS1\FinalWork\TaskFinal\obj\Debug\net7.0\TaskFinal.csproj.CoreCompileInputs.cache
+C:\Users\Лис\Desktop\work\NewLS1\FinalWork\TaskFinal\bin\Debug\net7.0\TaskFinal.exe
+C:\Users\Лис\Desktop\work\NewLS1\FinalWork\TaskFinal\bin\Debug\net7.0\TaskFinal.deps.json
+C:\Users\Лис\Desktop\work\NewLS1\FinalWork\TaskFinal\bin\Debug\net7.0\TaskFinal.runtimeconfig.json
+C:\Users\Лис\Desktop\work\NewLS1\FinalWork\TaskFinal\bin\Debug\net7.0\TaskFinal.dll
+C:\Users\Лис\Desktop\work\NewLS1\FinalWork\TaskFinal\bin\Debug\net7.0\TaskFinal.pdb
+C:\Users\Лис\Desktop\work\NewLS1\FinalWork\TaskFinal\obj\Debug\net7.0\TaskFinal.dll
+C:\Users\Лис\Desktop\work\NewLS1\FinalWork\TaskFinal\obj\Debug\net7.0\refint\TaskFinal.dll
+C:\Users\Лис\Desktop\work\NewLS1\FinalWork\TaskFinal\obj\Debug\net7.0\TaskFinal.pdb
+C:\Users\Лис\Desktop\work\NewLS1\FinalWork\TaskFinal\obj\Debug\net7.0\TaskFinal.genruntimeconfig.cache
+C:\Users\Лис\Desktop\work\NewLS1\FinalWork\TaskFinal\obj\Debug\net7.0\ref\TaskFinal.dll
